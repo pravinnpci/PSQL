@@ -2,3 +2,12 @@ hi pravin
 hit os
 
 adding news
+hellow
+pravinn
+<<<<<<< HEAD
+
+=======
+hi 
+
+asdfsdfsdf
+>>>>>>> main
